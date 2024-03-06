@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "12333a131a127107",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d1d4ba5b05cdf9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977cdc1c8411f49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfa5ad92852963b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JAVA/Serialize/Пример - массив объектов в файл.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21b69c1a907fc365",
+    "type": "split",
+    "children": [
+      {
+        "id": "c481ec54b5f79f97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "496fc2f090ea280e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70b350819fe7561c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a1251cfcbde85af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347.5026054382324
+  },
+  "right": {
+    "id": "b8df2b4528207486",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6b201824ad3d1f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ec59c8752d02bff",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8c6dcbcb019685c4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb9597b9c7879921",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ace03a75c22754e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "977cdc1c8411f49b",
+  "lastOpenFiles": [
+    "1 JAVA конспект/Многопоточность/Синхронизатор Exchanger.md",
+    "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+    "1 JAVA конспект/Многопоточность/Синхронизатор Semaphore.md",
+    "Nginx/nginx под Windows.md",
+    "1 JAVA конспект/Потоки ввода-вывода. Работа с файлами",
+    "1 JAVA конспект/Многопоточность/1.Класс Thread.md",
+    "1 JAVA конспект/Многопоточность/Завершение и прерывание потока.md",
+    "1 JAVA конспект/Многопоточность/Оператор synchronized.Синхронизация потоков..md",
+    "1 JAVA конспект/Многопоточность/Методы wait и notify.md",
+    "1 JAVA конспект/Многопоточность/Callable & Future.md",
+    "1 JAVA конспект/Многопоточность/ThreadPool и ExecutorService.md",
+    "1 JAVA конспект/Паттерны проектирования/Фабричный метод.md",
+    "Pasted image 20240305114328.png",
+    "Pasted image 20240305114233.png",
+    "1 JAVA конспект/Паттерны проектирования",
+    "1 JAVA конспект/Многопоточность/ExecutorService.md",
+    "2024-03-05_10-45-30 3.png",
+    "2024-03-05_10-45-30 2.png",
+    "2024-03-05_10-45-30 1.png",
+    "2024-03-05_10-45-30.png",
+    "2024-03-05_10-30-24.png",
+    "2024-03-05_10-29-19.png",
+    "2024-03-05_10-10-20.png",
+    "JAVA/Stream/Создание потока данных - Metanit.md",
+    "JAVA конспект/Многопоточность/Callable & Future",
+    "1 JAVA конспект/Многопоточность",
+    "1 JAVA конспект",
+    "JAVA/Stream/Хорстманн/Накопление результатов.md",
+    "JAVA/Stream/Хорстманн/Извлечение подпотоков и объединение потоков данных Хорстманн.md",
+    "JAVA/Stream/Хорстманн/Другие операции преобразования потоков.md",
+    "JAVA/Stream/Интерфейс Stream.md",
+    "JAVA/Чтение из файла.md",
+    "JAVA/Паттерны/Стратегия.md",
+    "JAVA/Паттерны/Адаптер.md",
+    "JAVA/Паттерны/Принципы проектирования.md",
+    "IJ/Lambda.md",
+    "JAVA/Коллекции/ArrayList.md",
+    "IJ",
+    "JAVA/Коллекции/Контейнеры и коллекции.md",
+    "JAVA/Коллекции/Конкретные коллекции.md",
+    "JAVA/Оператор Switch.md",
+    "Pasted image 20240115161659.png",
+    "JAVA/Stream/Хорстманн",
+    "Case_Platform/Конспекты/Общий курс/210 Настройка таблицы с большим объемом данных/Files/Совместное использование функций.mp4",
+    "JAVA/Serialize",
+    "JAVA/NEW/Паттерны"
+  ]
+}
