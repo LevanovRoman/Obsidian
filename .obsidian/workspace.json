@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+                "file": "1 JAVA конспект/Records.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5026054382324
+    "width": 287.5026054382324
   },
   "right": {
     "id": "b8df2b4528207486",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+                "file": "1 JAVA конспект/Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
+                "file": "1 JAVA конспект/Records.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md"
+                "file": "1 JAVA конспект/Records.md"
               }
             }
           }
@@ -161,7 +161,10 @@
   },
   "active": "977cdc1c8411f49b",
   "lastOpenFiles": [
+    "1 JAVA конспект/Многопоточность/Синхронизированные коллекции.md",
+    "1 JAVA конспект/Records.md",
     "1 JAVA конспект/Многопоточность/Синхронизатор Exchanger.md",
+    "1 JAVA конспект/Многопоточность/Класс AtomicInteger.md",
     "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
     "1 JAVA конспект/Многопоточность/Синхронизатор Semaphore.md",
     "Nginx/nginx под Windows.md",
@@ -199,9 +202,6 @@
     "IJ/Lambda.md",
     "JAVA/Коллекции/ArrayList.md",
     "IJ",
-    "JAVA/Коллекции/Контейнеры и коллекции.md",
-    "JAVA/Коллекции/Конкретные коллекции.md",
-    "JAVA/Оператор Switch.md",
     "Pasted image 20240115161659.png",
     "JAVA/Stream/Хорстманн",
     "Case_Platform/Конспекты/Общий курс/210 Настройка таблицы с большим объемом данных/Files/Совместное использование функций.mp4",
