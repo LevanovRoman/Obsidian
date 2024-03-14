@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Собеседование/Общие.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dfa5ad92852963b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JAVA/Serialize/Пример - массив объектов в файл.md",
+                "file": "JAVA/Switch - case.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5026054382324
+    "width": 307.5026054382324
   },
   "right": {
     "id": "b8df2b4528207486",
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Собеседование/Общие.md",
+                "file": "JAVA/Switch - case.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Собеседование/Общие.md",
+                "file": "JAVA/Switch - case.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Собеседование/Общие.md"
+                "file": "JAVA/Switch - case.md"
               }
             }
           }
@@ -161,33 +149,33 @@
   },
   "active": "977cdc1c8411f49b",
   "lastOpenFiles": [
+    "1 JAVA конспект/7. Класс Class и объекты Class.md",
+    "1 JAVA конспект/8. Reflection.md",
+    "1 JAVA конспект/Надо изучить.md",
+    "JAVA/Serialize/Пример - массив объектов в файл.md",
+    "1 JAVA конспект/Многопоточность/Синхронизатор Semaphore.md",
+    "1 JAVA конспект/Enum.md",
     "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
+    "1 JAVA конспект/Паттерны проектирования/Фабричный метод.md",
+    "1 JAVA конспект/Паттерны проектирования/ШАБЛОНЫ ПРОЕКТИРОВАНИЯ С JAVA ENUM.md",
+    "Собеседование/ООП.md",
+    "Собеседование/Core Java.md",
     "Собеседование/Общие.md",
     "Собеседование/Практические задачи.md",
     "Собеседование/Потоковое API.md",
     "Собеседование/Многопоточность.md",
     "Собеседование/Фреймворк.md",
-    "Собеседование/Core Java.md",
     "Собеседование/Работа с файлами.md",
     "Собеседование/БД.md",
     "Собеседование/Коллекции.md",
     "Собеседование/Тестирование.md",
     "Собеседование/Исключения.md",
-    "Собеседование/ООП.md",
     "1 JAVA конспект/Records.md",
     "Собеседование/Enum.md",
-    "1 JAVA конспект/Enum.md",
     "1 JAVA конспект/Что такое транзакция.md",
     "Собеседование",
     "1 JAVA конспект/Требования ACID.md",
     "JAVA/Scanner.md",
-    "1 JAVA конспект/Паттерны проектирования/ШАБЛОНЫ ПРОЕКТИРОВАНИЯ С JAVA ENUM.md",
-    "1 JAVA конспект/Многопоточность/Синхронизированные коллекции.md",
-    "1 JAVA конспект/Многопоточность/Класс AtomicInteger.md",
-    "1 JAVA конспект/Многопоточность/Синхронизатор Exchanger.md",
-    "1 JAVA конспект/Многопоточность/Синхронизатор CountDownLatch.md",
-    "1 JAVA конспект/Многопоточность/Синхронизатор Semaphore.md",
-    "Nginx/nginx под Windows.md",
     "1 JAVA конспект/Потоки ввода-вывода. Работа с файлами",
     "Pasted image 20240305114328.png",
     "Pasted image 20240305114233.png",
