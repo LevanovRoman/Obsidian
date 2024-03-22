@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Switch - case.md",
+                "file": "Собеседование/ООП.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JAVA/Switch - case.md",
+                "file": "Собеседование/ООП.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JAVA/Switch - case.md",
+                "file": "Собеседование/ООП.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JAVA/Switch - case.md"
+                "file": "Собеседование/ООП.md"
               }
             }
           }
@@ -149,15 +149,25 @@
   },
   "active": "977cdc1c8411f49b",
   "lastOpenFiles": [
+    "1 JAVA конспект/Надо изучить.md",
+    "1 JAVA конспект/6. Optional.md",
+    "1 JAVA конспект/Требования ACID.md",
+    "Собеседование/Коллекции.md",
+    "1 JAVA конспект/Паттерны проектирования/ШАБЛОНЫ ПРОЕКТИРОВАНИЯ С JAVA ENUM.md",
+    "1 JAVA конспект/Records.md",
+    "1 JAVA конспект/Enum.md",
+    "1 JAVA конспект/Что такое транзакция.md",
     "1 JAVA конспект/7. Класс Class и объекты Class.md",
     "1 JAVA конспект/8. Reflection.md",
-    "1 JAVA конспект/Надо изучить.md",
+    "1 JAVA конспект/9. Аннотации.md",
+    "1 JAVA конспект/10. Generics.md",
+    "JAVA/Строки/StringBuilder.md",
+    "JAVA/Switch - case.md",
+    "JAVA/Массивы/Методы массивов.md",
     "JAVA/Serialize/Пример - массив объектов в файл.md",
     "1 JAVA конспект/Многопоточность/Синхронизатор Semaphore.md",
-    "1 JAVA конспект/Enum.md",
     "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
     "1 JAVA конспект/Паттерны проектирования/Фабричный метод.md",
-    "1 JAVA конспект/Паттерны проектирования/ШАБЛОНЫ ПРОЕКТИРОВАНИЯ С JAVA ENUM.md",
     "Собеседование/ООП.md",
     "Собеседование/Core Java.md",
     "Собеседование/Общие.md",
@@ -165,17 +175,7 @@
     "Собеседование/Потоковое API.md",
     "Собеседование/Многопоточность.md",
     "Собеседование/Фреймворк.md",
-    "Собеседование/Работа с файлами.md",
-    "Собеседование/БД.md",
-    "Собеседование/Коллекции.md",
-    "Собеседование/Тестирование.md",
-    "Собеседование/Исключения.md",
-    "1 JAVA конспект/Records.md",
-    "Собеседование/Enum.md",
-    "1 JAVA конспект/Что такое транзакция.md",
     "Собеседование",
-    "1 JAVA конспект/Требования ACID.md",
-    "JAVA/Scanner.md",
     "1 JAVA конспект/Потоки ввода-вывода. Работа с файлами",
     "Pasted image 20240305114328.png",
     "Pasted image 20240305114233.png",
