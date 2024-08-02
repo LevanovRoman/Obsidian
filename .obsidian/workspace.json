@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring-data-jpa/@JoinColumn.md",
+                "file": "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9594b5fe643775fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL/Вложенные запросы.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5026054382324
+    "width": 200
   },
   "right": {
     "id": "b8df2b4528207486",
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring-data-jpa/@JoinColumn.md",
+                "file": "SQL/Вложенные запросы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring-data-jpa/@JoinColumn.md",
+                "file": "SQL/Вложенные запросы.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring-data-jpa/@JoinColumn.md"
+                "file": "SQL/Вложенные запросы.md"
               }
             }
           }
@@ -160,36 +172,37 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "02d26c40f2ca9ed4",
+  "active": "9594b5fe643775fe",
   "lastOpenFiles": [
-    "Собеседование/Потоковое API.md",
-    "Spring-data-jpa/@JoinColumn.md",
-    "Spring-data-jpa",
-    "Собеседование/Основы.md",
-    "Собеседование/Общие.md",
-    "Собеседование/Коллекции.md",
-    "1 JAVA конспект/Повторить.md",
-    "1 JAVA конспект/Требования ACID.md",
-    "Собеседование/ООП.md",
-    "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
-    "Карелия/Что посмотреть в Карелии.md",
-    "Карелия/Без названия.md",
-    "Карелия",
-    "Без названия.md",
-    "IJ/Lambda.md",
-    "Собеседование/Исключения.md",
-    "JAVA/Коллекции/Контейнеры и коллекции.md",
-    "JAVA/Строки/System.out.format.md",
-    "JAVA/Строки/Методы класса String.md",
-    "JAVA/Строки/Метод split.md",
-    "JAVA/Массивы/Методы массивов.md",
-    "JAVA/Массивы/Массивы.md",
-    "JAVA/Строки/Методы строк.md",
-    "JAVA/Строки/Работа со строками в Java.md",
-    "GIT/Без названия.md",
-    "Собеседование/БД.md",
-    "1 JAVA конспект/Паттерны проектирования/Классификация паттернов.md",
+    "SQL/Начало.md",
+    "SQL/Вложенные запросы.md",
+    "1 JAVA конспект/7. Класс Class и объекты Class.md",
+    "SQL",
+    "1 JAVA конспект/6. Optional.md",
     "1 JAVA конспект/Spring/Что такое инверсия контроля в Spring Framework.md",
+    "Docker/Команды Docker/Команды Docker для управления образами.md",
+    "Docker/Команды Docker/Команды для управления контейнерами.md",
+    "Docker/Команды Docker.md",
+    "Docker/Что такое DockerFile.md",
+    "Собеседование/ООП.md",
+    "Собеседование/Общие.md",
+    "Собеседование/Исключения.md",
+    "Собеседование/БД.md",
+    "Карелия/Что посмотреть в Карелии.md",
+    "1 JAVA конспект/Records.md",
+    "1 JAVA конспект/Enum.md",
+    "1 JAVA конспект/Требования ACID.md",
+    "1 JAVA конспект/Что такое транзакция.md",
+    "1 JAVA конспект/10. Generics.md",
+    "1 JAVA конспект/9. Аннотации.md",
+    "1 JAVA конспект/8. Reflection.md",
+    "1 JAVA конспект/Повторить.md",
+    "1 JAVA конспект/Многопоточность/Завершение и прерывание потока.md",
+    "1 JAVA конспект/Многопоточность/Класс AtomicInteger.md",
+    "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
+    "1 JAVA конспект/Паттерны проектирования/ШАБЛОНЫ ПРОЕКТИРОВАНИЯ С JAVA ENUM.md",
+    "Spring-data-jpa",
+    "Карелия",
     "1 JAVA конспект/Spring",
     "Pasted image 20240410092606.jpg",
     "Собеседование",
@@ -206,7 +219,6 @@
     "2024-03-05_10-10-20.png",
     "JAVA конспект/Многопоточность/Callable & Future",
     "1 JAVA конспект/Многопоточность",
-    "1 JAVA конспект",
-    "IJ"
+    "1 JAVA конспект"
   ]
 }
