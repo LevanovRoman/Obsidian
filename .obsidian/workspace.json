@@ -4,47 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4d1d4ba5b05cdf9a",
+        "id": "2e4ebf60612e9420",
         "type": "tabs",
         "children": [
           {
-            "id": "977cdc1c8411f49b",
+            "id": "eb048a5d531e79fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JAVA/Коллекции/Контейнеры и коллекции.md",
+                "file": "1 JAVA конспект/Повторить.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "02d26c40f2ca9ed4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9594b5fe643775fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL/Вложенные запросы.md",
-                "mode": "source",
-                "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Повторить"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -79,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
             }
           },
           {
@@ -87,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
             }
           }
         ]
@@ -110,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL/Вложенные запросы.md",
+                "file": "Mockito/Start.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Start"
             }
           },
           {
@@ -127,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL/Вложенные запросы.md",
+                "file": "Mockito/Start.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Start"
             }
           },
           {
@@ -141,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
             }
           },
           {
@@ -150,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL/Вложенные запросы.md"
-              }
+                "file": "Mockito/Start.md"
+              },
+              "icon": "lucide-list",
+              "title": "Структура Start"
             }
           }
         ],
@@ -172,35 +163,39 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9594b5fe643775fe",
+  "active": "eb048a5d531e79fd",
   "lastOpenFiles": [
-    "SQL/Начало.md",
-    "SQL/Вложенные запросы.md",
+    "1 JAVA конспект/10. Generics.md",
+    "1 JAVA конспект/10. Generics.md",
+    "1 JAVA конспект/11. Интерфейсы Comparable и Comparator.md",
     "1 JAVA конспект/7. Класс Class и объекты Class.md",
-    "SQL",
+    "1 JAVA конспект/Надо изучить.md",
     "1 JAVA конспект/6. Optional.md",
-    "1 JAVA конспект/Spring/Что такое инверсия контроля в Spring Framework.md",
-    "Docker/Команды Docker/Команды Docker для управления образами.md",
-    "Docker/Команды Docker/Команды для управления контейнерами.md",
-    "Docker/Команды Docker.md",
-    "Docker/Что такое DockerFile.md",
+    "Собеседование/Работа с файлами.md",
+    "2 SPRING/Темы.md",
+    "2 SPRING/3 Bean scope.md",
+    "2 SPRING/2 Dependency Injection.md",
+    "2 SPRING/1 Inversion of Control.md",
+    "1 JAVA конспект/Требования ACID.md",
+    "1 JAVA конспект/Повторить.md",
+    "Собеседование/Шпаргалка по структурам данных в Java.md",
     "Собеседование/ООП.md",
-    "Собеседование/Общие.md",
+    "Собеседование/Коллекции.md",
     "Собеседование/Исключения.md",
     "Собеседование/БД.md",
-    "Карелия/Что посмотреть в Карелии.md",
-    "1 JAVA конспект/Records.md",
-    "1 JAVA конспект/Enum.md",
-    "1 JAVA конспект/Требования ACID.md",
-    "1 JAVA конспект/Что такое транзакция.md",
-    "1 JAVA конспект/10. Generics.md",
-    "1 JAVA конспект/9. Аннотации.md",
-    "1 JAVA конспект/8. Reflection.md",
-    "1 JAVA конспект/Повторить.md",
-    "1 JAVA конспект/Многопоточность/Завершение и прерывание потока.md",
-    "1 JAVA конспект/Многопоточность/Класс AtomicInteger.md",
-    "1 JAVA конспект/Паттерны проектирования/Какие паттерны GoF вы использовали на практике.md",
-    "1 JAVA конспект/Паттерны проектирования/ШАБЛОНЫ ПРОЕКТИРОВАНИЯ С JAVA ENUM.md",
+    "Собеседование/Основы.md",
+    "JAVA/Типы-обертки/Double.md",
+    "JAVA/Типы-обертки/Character.md",
+    "Собеседование/Тестирование.md",
+    "JAVA/Без названия.md",
+    "JAVA/Stream/Создание потока данных - Metanit.md",
+    "JAVA/Stream/Интерфейс Stream.md",
+    "JAVA/Потоки ввода--вывода/task.md",
+    "2024-03-05_10-45-30 2.png",
+    "2024-03-05_10-45-30 3.png",
+    "2 SPRING",
+    "Mockito",
+    "SQL",
     "Spring-data-jpa",
     "Карелия",
     "1 JAVA конспект/Spring",
@@ -210,15 +205,11 @@
     "Pasted image 20240305114328.png",
     "Pasted image 20240305114233.png",
     "1 JAVA конспект/Паттерны проектирования",
-    "2024-03-05_10-45-30 3.png",
-    "2024-03-05_10-45-30 2.png",
     "2024-03-05_10-45-30 1.png",
     "2024-03-05_10-45-30.png",
     "2024-03-05_10-30-24.png",
     "2024-03-05_10-29-19.png",
     "2024-03-05_10-10-20.png",
-    "JAVA конспект/Многопоточность/Callable & Future",
-    "1 JAVA конспект/Многопоточность",
-    "1 JAVA конспект"
+    "JAVA конспект/Многопоточность/Callable & Future"
   ]
 }

@@ -3,6 +3,6 @@
   "theme": "moonstone",
   "baseFontSize": 16,
   "nativeMenus": true,
-  "cssTheme": "Typewriter",
+  "cssTheme": "Solarized",
   "baseFontSizeAction": true
 }
